@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SIP Goal Calculator",
+  "description": "A simple calculator to estimate the monthly investment (SIP) required to achieve a target financial corpus over a specified period, considering the interest rate and investment timing.",
+  "requestFramePermissions": []
+}
